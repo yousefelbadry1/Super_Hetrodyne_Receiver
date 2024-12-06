@@ -7,6 +7,7 @@
 This endeavor focused on designing and simulating a **super-heterodyne receiver** and AM modulator using MATLAB. 
 
 Highlights of the Project: 
+
 1️⃣ Comprehensive Audio Signal Processing: 
  - Loading and resampling audio signals for consistent processing. 
  - Transitioning from stereo to mono for simplified modulation. 
